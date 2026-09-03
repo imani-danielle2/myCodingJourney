@@ -9,7 +9,7 @@ This is where I’ll document my learning, growth, and experiences throughout my
 
 
 ## Table of Contents
-- [Growth Mindset]()
+- [Growth Mindset](src/docs/Blog/2026/Imani-danielle)
 
 ---
 
